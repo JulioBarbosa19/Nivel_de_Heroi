@@ -1,5 +1,5 @@
 # Projeto classificação Nivel de Herói
-## O objetivo desse projeto é criar uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
+## O objetivo desse projeto é criar uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilizar uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
 * Se XP for menor do que 1.000 = Ferro
 * Se XP for entre 1.001 e 2.000 = Bronze
